@@ -1,4 +1,4 @@
-# Emotion Detection
+# oaqjp-final-project-emb-ai
 
 This project creates a Flask application for emotion detection using the Watson NLP library.
 This project is built to fulfill the grading criteria for the IBM Watson NLP Emotion Detection project.
